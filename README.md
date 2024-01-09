@@ -2,6 +2,6 @@
 
 ### 我是leocode-cn
 
-### 我的网址：https://www.leocode.cn （正在开通中...）
+### 我的网址：https://www.leocode.cn
 
 ### 待续...
